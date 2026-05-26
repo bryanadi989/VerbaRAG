@@ -1,6 +1,6 @@
 #  VerbaRAG: Deterministik Enterprise RAG Engine
 
-AegisKnowledge adalah platform Knowledge Management System (KMS) internal berbasis **RAG (Retrieval-Augmented Generation)** yang dirancang untuk kebutuhan korporasi. Sistem ini berfungsi mengotomatisasi penyajian informasi regulasi, SOP, dan kebijakan internal perusahaan secara real-time dengan garansi **Zero-Hallucination** (anti-halusinasi biner).
+VerbaRAG adalah platform Knowledge Management System (KMS) internal berbasis **RAG (Retrieval-Augmented Generation)** yang dirancang untuk kebutuhan korporasi. Sistem ini berfungsi mengotomatisasi penyajian informasi regulasi, SOP, dan kebijakan internal perusahaan secara real-time dengan garansi **Zero-Hallucination** (anti-halusinasi biner).
 
 Sistem ini memastikan bahwa AI Assistant hanya akan menjawab pertanyaan berdasarkan dokumen *ground-truth* yang telah divalidasi dan di-ingest ke dalam Vector Database lokal oleh tim admin.
 
