@@ -1,0 +1,16 @@
+# Python (Backend) Dependency & Cache
+rag-backend/venv/
+rag-backend/__pycache__/
+rag-backend/.env
+
+# Local Vector Database Storage (ChromaDB)
+rag-backend/chroma_db/
+
+# JavaScript/TypeScript (Frontend) Dependency & Build Cache
+rag-frontend/node_modules/
+rag-frontend/.next/
+rag-frontend/.env*.local
+
+# OS Files
+.DS_Store
+Thumbs.db
